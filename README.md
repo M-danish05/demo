@@ -1,3 +1,4 @@
-# demo
+# Demo
 This is my first repository.
-Author _ Muhammad Danish
+<br>
+Author _ Muhammad Danish.
